@@ -1,0 +1,1558 @@
+
+@media(max-width:1024px){
+    .main-bg .navbar .collapse form{
+    position: relative;
+    left: 40px;
+  }
+    
+}
+/*------------------------920------------------*/
+@media(max-width:920px){
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+    padding: 20px;
+    color: #fff;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    text-align: center;
+
+
+
+ }
+  .main-bg .navbar .collapse form{
+   text-align: center;
+  }
+.main-bg .bnr-sec .bg img{
+    position: relative;
+    top: 160px;
+
+ }
+ .main-bg .key-sec .container .main-cnt  .ctn-1{
+    margin-top:60px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-3{
+    margin-top:10px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-2{
+    margin-top:20px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-4{
+    margin-top:-10px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-1 h3{
+    font-size: 20px;
+    line-height: 40px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-1 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .bg-cn{
+    padding: 50px;
+}
+.main-bg .key-sec .container .main-cnt{
+    height: 1250px;
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 28px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    padding: 38px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    padding: 37.7px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 28px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn .img2{
+    width: 156px;
+    position: relative;
+    left: -35px;
+
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-sec p{
+    font-size: 13px;
+}
+.ftr-sec h4{
+    font-size: 19px;
+}
+.ftr-sec  ul li a{
+    font-size: 14px;
+}
+}
+
+/*-------------------*/
+@media(max-width:786px){
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+    padding: 20px;
+    color: #fff;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    text-align: center;
+
+
+
+ }
+  .main-bg .navbar .collapse form{
+   text-align: center;
+  }
+.main-bg .bnr-sec .bg img{
+    position: relative;
+    top: 160px;
+
+ }
+ .main-bg .key-sec .container .main-cnt  .ctn-1{
+    margin-top:60px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-3{
+    margin-top:10px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-2{
+    margin-top:20px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-4{
+    margin-top:-10px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-1 h3{
+    font-size: 20px;
+    line-height: 40px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-1 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .bg-cn{
+    padding: 50px;
+}
+.main-bg .key-sec .container .main-cnt{
+    height: 1250px;
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 28px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    padding: 38px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    padding: 37.7px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 28px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn .img2{
+    width: 156px;
+    position: relative;
+    left: -35px;
+
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-sec p{
+    font-size: 13px;
+}
+.ftr-sec h4{
+    font-size: 19px;
+}
+.ftr-sec  ul li a{
+    font-size: 14px;
+}
+}
+/*-----------------------540---------*/
+@media(max-width:540px){
+
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+    padding: 20px;
+    color: #fff;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    text-align: center;
+
+
+
+ }
+ .main-bg .bnr-sec h2{
+    font-size: 39px;
+      position: relative;
+    top: 247px;
+ }
+ .main-bg .bnr-sec h4{
+    font-size: 28px;
+      position: relative;
+    top: 290px;
+ }
+ .main-bg .bnr-sec p{
+     position: relative;
+    top: 320px;
+    
+    line-height: 20px;
+
+ }
+  .main-bg .navbar .collapse form{
+   text-align: center;
+  }
+.main-bg .bnr-sec .bg img{
+    position: relative;
+    top: -30px;
+
+ }
+ 
+ .main-bg .navbar .collapse .btn{
+     background: linear-gradient(180deg, #17E9D0 0%, #EC1AF5 145.83%);
+     width: 143px;
+     height: 52px;
+     padding: 16px;
+     line-height: 19px;
+     font-size:20px;
+     margin-bottom: 20px;
+
+ }
+ .main-bg .bnr-sec p{
+    font-size: 14px;
+    line-height: 20px;
+    position: relative;
+    left: -80px;
+
+ }
+ .main-bg .logo-sec{
+    text-align: center;
+    margin-top: 180px;
+ }
+ .main-bg .logo-sec .container img{
+    width: 200px;
+    padding: 25px;
+
+  }
+  .main-bg .icn-sec .container .cntt h4{
+    text-align: center;
+  }
+  .main-bg .icn-sec .container .cntt p{
+    text-align: center;
+  }
+  .main-bg .icn-sec .container .cntt .ok{
+
+        text-align: center;
+        position: relative;
+        left: 190px;
+    }
+.main-bg .icn-sec .container  .ctnn-1 img{
+    width: 120px;
+}
+ .main-bg .key-sec .container .main-cnt  .ctn-1{
+    margin-top:5px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-3{
+    margin-top:90px;
+
+  }
+
+  .main-bg .key-sec .container .main-cnt .ctn-2{
+    margin-top:20px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctnn-2{
+    margin-top: 90px;
+  }
+  .main-bg .key-sec .container .main-cnt  .ctnn-4{
+    margin-top: 90px;
+  }
+.main-bg .key-sec .container .main-cnt .ctn-4{
+    margin-top:20px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-1 h3{
+    font-size: 20px;
+    line-height: 25px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-1 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 h3{
+    font-size: 17px;
+    line-height: 22px;
+    width: 400px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 p{
+    font-size: 13px;
+    line-height: 17px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 h3{
+    font-size: 14px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .bg-cn{
+    padding: 50px;
+}
+.main-bg .key-sec .container .main-cnt{
+    height:2100px;
+}
+.main-bg .grdnt-sec  {
+    background-image:url(../images/grdnt.png);
+    background-size: cover;
+    height: 1500px;
+    
+     }
+
+
+.main-bg .grdnt-sec .card-sec .crd-ctn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 18px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 18px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    background: rgba(27, 42, 60, 0.4);
+     backdrop-filter: blur(100px);
+     border-radius: 20px;
+     margin-top: 48px;
+     padding: 39px;
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn{
+    background: rgba(27, 42, 60, 0.4);
+     backdrop-filter: blur(100px);
+     border-radius: 20px;
+     margin-top: 48px;
+     padding: 39px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    margin-top: 50px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    padding: 38px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    padding: 37.7px;
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: -8px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn .img2{
+    width: 156px;
+    position: relative;
+    left: -35px;
+
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.road-sec .container h3{
+    font-size: 35px;
+    line-height: 80px;
+}
+.road-sec .container p{
+    font-size: 12px;
+    line-height: 12px;
+}
+.box-sec .container .box .ctnt h4{
+    font-size: 25px;
+    line-height: 35px;
+}
+.box-sec .container .box .ctnt p{
+    font-size: 15px;
+    line-height: 20px;
+
+}
+.ftr-sec {
+    text-align: center;
+    padding-top: 100px;
+
+
+}
+.ftr-sec p{
+    font-size: 13px;
+}
+.ftr-sec h4{
+    font-size: 19px;
+
+}
+.ftr-sec  ul li a{
+    font-size: 14px;
+}
+}
+/*--------------425------------------------------------------------------------------------*/
+@media(max-width:425px){
+
+.main-bg .bnr-sec h2{
+    font-size: 30px;
+      position: relative;
+    top: 27px;
+ }
+ .main-bg .bnr-sec h4{
+    font-size: 22px;
+      position: relative;
+    top: 40px;
+ }
+ .main-bg .bnr-sec p{
+     position: relative;
+    top: 60px;
+    left: 30px;
+    width: 370px;
+    line-height: 20px;
+
+ }
+ .main-bg .bnr-sec .bg img{
+    position: relative;
+    top: 70px;
+
+ }
+ .main-bg .key-sec .container .main-cnt{
+    height:1750px;
+}
+.main-bg  .crcl-sec .crcl img{
+    width: 250px;
+}
+.main-bg  .crcl-sec .crcl .span-1{
+    position: relative;
+    top: 100px;
+    left: -124px;
+}
+.main-bg  .crcl-sec .crcl .span-1 span{
+    color: #fff;
+    font-size: 27px;
+}
+.main-bg  .crcl-sec .crcl  .span-1 a{
+    font-size: 8.5px;
+    color: #fff;
+}
+.main-bg  .crcl-sec .crcl .span-2 span{
+    color: #fff;
+    font-size: 27px;
+}
+.main-bg  .crcl-sec .crcl  .span-2 a{
+    font-size: 8.5px;
+    color: #fff;
+}
+
+.main-bg  .crcl-sec .crcl .span-2{
+    position: relative;
+}
+.main-bg  .crcl-sec .crcl .span-2{
+    position: relative;
+    top: 160px;
+    left: 165px;
+}
+.main-bg  .crcl-sec .crcl .span-3 span{
+    color: #fff;
+    font-size: 27px;
+}
+.main-bg  .crcl-sec .crcl  .span-3 a{
+    font-size: 8.5px;
+    color: #fff;
+}
+
+
+.main-bg  .crcl-sec .crcl .span-3{
+    position: relative;
+    top: 210px;
+    left: -127px;
+}
+.main-bg  .crcl-sec{
+    margin-top: 50px;
+}
+.box-sec .container .box .ctnt p{
+    font-size: 13px;
+    line-height: 20px;
+
+}
+.main-bg .icn-sec .container .cntt .ok{
+
+        text-align: center;
+        position: relative;
+        left: 125px;
+    }
+    .main-bg .bnr-sec h2{
+    font-size: 39px;
+      position: relative;
+    top: 247px;
+ }
+ .main-bg .bnr-sec h4{
+    font-size: 28px;
+      position: relative;
+    top: 280px;
+ }
+ .main-bg .bnr-sec p{
+     position: relative;
+    top: 300px;
+    line-height: 20px;
+
+ }
+
+ 
+ .main-bg .bnr-sec .bg img{
+    position: relative;
+    top: -37px;
+
+ }
+
+}
+/*-----------------------------------------------------414------------------------------------------------------------*/
+@media(max-width:414px){
+
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+    padding: 20px;
+    color: #fff;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    text-align: center;
+
+
+
+ }
+  .main-bg .icn-sec .container .cntt .ok{
+
+        text-align: center;
+        position: relative;
+        left: 125px;
+    }
+  .main-bg .navbar .collapse form{
+   text-align: center;
+  }
+
+ .main-bg .navbar .collapse .btn{
+     background: linear-gradient(180deg, #17E9D0 0%, #EC1AF5 145.83%);
+     width: 143px;
+     height: 52px;
+     padding: 16px;
+     line-height: 19px;
+     font-size:20px;
+     margin-bottom: 20px;
+
+ }
+  .main-bg .bnr-sec h2{
+    font-size: 39px;
+      position: relative;
+    top: 247px;
+ }
+ .main-bg .bnr-sec h4{
+    font-size: 28px;
+      position: relative;
+    top: 280px;
+ }
+ .main-bg .bnr-sec p{
+     position: relative;
+    top: 300px;
+    line-height: 20px;
+
+ }
+
+ .main-bg .logo-sec{
+    text-align: center;
+    margin-top: 130px;
+ }
+ .main-bg .bnr-sec .bg img{
+    position: relative;
+    top: -37px;
+
+ }
+ .main-bg .logo-sec .container img{
+    width: 200px;
+    padding: 25px;
+
+  }
+  .main-bg .icn-sec .container .cntt h4{
+    text-align: center;
+  }
+  .main-bg .icn-sec .container .cntt p{
+    text-align: center;
+  }
+  .main-bg .icn-sec .container .cntt .ok{
+        
+        text-align: center;
+    }
+.main-bg .icn-sec .container  .ctnn-1 img{
+    width: 120px;
+}
+ .main-bg .key-sec .container .main-cnt  .ctn-1{
+    margin-top:5px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-3{
+    margin-top:90px;
+
+  }
+
+  .main-bg .key-sec .container .main-cnt .ctn-2{
+    margin-top:20px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctnn-2{
+    margin-top: 90px;
+  }
+  .main-bg .key-sec .container .main-cnt  .ctnn-4{
+    margin-top: 90px;
+  }
+.main-bg .key-sec .container .main-cnt .ctn-4{
+    margin-top:20px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-1 h3{
+    font-size: 20px;
+    line-height: 25px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-1 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 h3{
+    font-size: 17px;
+    line-height: 22px;
+    width: 400px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 p{
+    font-size: 13px;
+    line-height: 17px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 h3{
+    font-size: 14px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .bg-cn{
+    padding: 50px;
+}
+.main-bg .key-sec .container .main-cnt{
+    height:1760px;
+}
+.main-bg .grdnt-sec  {
+    background-image:url(../images/grdnt.png);
+    background-size: cover;
+    height: 1600px;
+    
+     }
+
+
+.main-bg .grdnt-sec .card-sec .crd-ctn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 18px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 18px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    background: rgba(27, 42, 60, 0.4);
+     backdrop-filter: blur(100px);
+     border-radius: 20px;
+     margin-top: 48px;
+     padding: 39px;
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn{
+    background: rgba(27, 42, 60, 0.4);
+     backdrop-filter: blur(100px);
+     border-radius: 20px;
+     margin-top: 48px;
+     padding: 39px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    margin-top: 50px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    padding: 38px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    padding: 37.7px;
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: -8px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn .img2{
+    width: 156px;
+    position: relative;
+    left: -35px;
+
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.main-bg  .crcl-sec .crcl img{
+    width: 250px;
+}
+.main-bg  .crcl-sec .crcl .span-1{
+    position: relative;
+    top: 100px;
+    left: -124px;
+}
+.main-bg  .crcl-sec .crcl .span-1 span{
+    color: #fff;
+    font-size: 27px;
+}
+.main-bg  .crcl-sec .crcl  .span-1 a{
+    font-size: 8.5px;
+    color: #fff;
+}
+.main-bg  .crcl-sec .crcl .span-2 span{
+    color: #fff;
+    font-size: 27px;
+}
+.main-bg  .crcl-sec .crcl  .span-2 a{
+    font-size: 8.5px;
+    color: #fff;
+}
+
+.main-bg  .crcl-sec .crcl .span-2{
+    position: relative;
+}
+.main-bg  .crcl-sec .crcl .span-2{
+    position: relative;
+    top: 160px;
+    left: 165px;
+}
+.main-bg  .crcl-sec .crcl .span-3 span{
+    color: #fff;
+    font-size: 27px;
+}
+.main-bg  .crcl-sec .crcl  .span-3 a{
+    font-size: 8.5px;
+    color: #fff;
+}
+
+
+.main-bg  .crcl-sec .crcl .span-3{
+    position: relative;
+    top: 210px;
+    left: -127px;
+}
+.main-bg  .crcl-sec{
+    margin-top: 50px;
+}
+
+.road-sec .container h3{
+    font-size: 35px;
+    line-height: 80px;
+}
+.road-sec .container p{
+    font-size: 12px;
+    line-height: 12px;
+}
+.box-sec .container .box .ctnt h4{
+    font-size: 25px;
+    line-height: 35px;
+}
+.box-sec .container .box .ctnt p{
+    font-size: 13px;
+    line-height: 20px;
+
+}
+.ftr-sec .ftr-bg{
+    margin-top: 60px;
+}
+.ftr-sec{
+    text-align: center;
+    margin-top: 0px;
+
+}
+.ftr-sec p{
+    font-size: 13px;
+}
+.ftr-sec h4{
+    font-size: 19px;
+
+}
+.ftr-sec  ul li a{
+    font-size: 14px;
+}
+}
+/*==========*/
+
+    @media(max-width:380px){
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+    padding: 20px;
+    color: #fff;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    text-align: center;
+
+
+
+ }
+  .main-bg .navbar .collapse form{
+   text-align: center;
+  }
+.main-bg .bnr-sec .bg img{
+    position: relative;
+    top: 160px;
+
+ }
+ .main-bg .key-sec .container .main-cnt  .ctn-1{
+    margin-top:60px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-3{
+    margin-top:10px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-2{
+    margin-top:20px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-4{
+    margin-top:-10px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-1 h3{
+    font-size: 20px;
+    line-height: 40px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-1 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .bg-cn{
+    padding: 50px;
+}
+.main-bg .key-sec .container .main-cnt{
+    height: 1250px;
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 28px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    padding: 38px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    padding: 37.7px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 28px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn .img2{
+    width: 156px;
+    position: relative;
+    left: -35px;
+
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.ftr-sec p{
+    font-size: 13px;
+}
+.ftr-sec h4{
+    font-size: 19px;
+}
+.ftr-sec  ul li a{
+    font-size: 14px;
+}
+}
+/*----------------------------------------------425---------------------------------------------------*/
+
+
+    @media(max-width:360px)
+    {
+
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+    padding: 20px;
+    color: #fff;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    text-align: center;
+
+
+
+ }
+  .main-bg .navbar .collapse form{
+   text-align: center;
+  }
+
+ .main-bg .navbar .collapse .btn{
+     background: linear-gradient(180deg, #17E9D0 0%, #EC1AF5 145.83%);
+     width: 113px;
+     height: 44px;
+     padding: 16px;
+     line-height: 12px;
+     font-size:14px;
+     margin-bottom: 20px;
+
+ }
+
+ .main-bg .bnr-sec h2{
+    font-size: 09px;
+      position: relative;
+    top: 347px;
+ }
+
+ .main-bg .bnr-sec h4{
+    font-size: 28px;
+      position: relative;
+    top: 280px;
+ }
+
+ .main-bg .bnr-sec p{
+     position: relative;
+    top: 400px;
+    line-height: 20px;
+
+ }
+
+ 
+ .main-bg .bnr-sec .bg img{
+    position: relative;
+    top: 37px;
+
+ }
+ .main-bg .logo-sec{
+    text-align: center;
+    margin-top: 130px;
+ }
+ .main-bg .logo-sec .container img{
+    width: 200px;
+    padding: 25px;
+
+  }
+  .main-bg .icn-sec .container .cntt{
+    margin-top:px;
+  }
+  .main-bg .icn-sec .container .cntt h4{
+    text-align: center;
+
+  }
+  .main-bg .icn-sec .container .cntt p{
+    text-align: center;
+  }
+  .main-bg .icn-sec .container .cntt .ok{
+        
+        text-align: center;
+    }
+.main-bg .icn-sec .container  .ctnn-1 img{
+    width: 120px;
+}
+ .main-bg .key-sec .container .main-cnt  .ctn-1{
+    margin-top:5px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-3{
+    margin-top:90px;
+
+  }
+
+  .main-bg .key-sec .container .main-cnt .ctn-2{
+    margin-top:20px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctnn-2{
+    margin-top: 90px;
+  }
+  .main-bg .key-sec .container .main-cnt  .ctnn-4{
+    margin-top: 90px;
+  }
+.main-bg .key-sec .container .main-cnt .ctn-4{
+    margin-top:20px;
+
+  }
+.main-bg .key-sec .container .main-cnt .ctn-1 h3{
+    font-size: 20px;
+    line-height: 25px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-1 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 h3{
+    font-size: 17px;
+    line-height: 22px;
+    width: 400px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-2 p{
+    font-size: 13px;
+    line-height: 17px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 h3{
+    font-size: 14px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 h3{
+    font-size: 20px;
+    line-height: 22px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-4 p{
+    font-size: 13px;
+}
+.main-bg .key-sec .container .main-cnt .bg-cn{
+    padding: 50px;
+}
+.main-bg .key-sec .container .main-cnt{
+    height:1700px;
+}
+.main-bg .grdnt-sec  {
+    background-image:url(../images/grdnt.png);
+    background-size: cover;
+    height: 1600px;
+    
+     }
+
+
+.main-bg .grdnt-sec .card-sec .crd-ctn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 18px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: 18px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    background: rgba(27, 42, 60, 0.4);
+     backdrop-filter: blur(100px);
+     border-radius: 20px;
+     margin-top: 48px;
+     padding: 39px;
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn{
+    background: rgba(27, 42, 60, 0.4);
+     backdrop-filter: blur(100px);
+     border-radius: 20px;
+     margin-top: 48px;
+     padding: 39px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    margin-top: 50px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctn{
+    padding: 38px;
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn{
+    padding: 37.7px;
+}
+.main-bg .grdnt-sec .card-sec .crd-cttn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn  h4{
+     color: #fff;
+    font-family:var(--family);
+    font-style: normal;
+    font-weight:600;
+    font-size:15px;
+    line-height:22px;
+    letter-spacing: 0.02em;
+    margin-top: -8px;
+
+
+
+}
+.main-bg .grdnt-sec .card-sec .crd-ctnn .img2{
+    width: 156px;
+    position: relative;
+    left: -35px;
+
+}
+.main-bg .grdnt-sec  .prg{
+    font-size: 12px;
+    color: #fff;
+}
+
+.main-bg .grdnt-sec .card-sec .crd-ctnn p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.main-bg  .crcl-sec .crcl img{
+    width: 220px;
+}
+.main-bg  .crcl-sec{
+    margin-top: 80px;
+}
+.main-bg  .crcl-sec .crcl .span-1{
+    position: relative;
+    top: 100px;
+    left: -120px;
+}
+.main-bg  .crcl-sec .crcl .span-1 span{
+    color: #fff;
+    font-size: 24px;
+}
+.main-bg  .crcl-sec .crcl  .span-1 a{
+    font-size: 8px;
+    color: #fff;
+}
+.main-bg  .crcl-sec .crcl .span-2 span{
+    color: #fff;
+    font-size: 24px;
+}
+.main-bg  .crcl-sec .crcl  .span-2 a{
+    font-size: 8px;
+    color: #fff;
+}
+
+.main-bg  .crcl-sec .crcl .span-2{
+    position: relative;
+}
+.main-bg  .crcl-sec .crcl .span-2{
+    position: relative;
+    top: 160px;
+    left: 140px;
+}
+.main-bg  .crcl-sec .crcl .span-3 span{
+    color: #fff;
+    font-size: 24px;
+}
+.main-bg  .crcl-sec .crcl  .span-3 a{
+    font-size: 8px;
+    color: #fff;
+}
+
+
+.main-bg  .crcl-sec .crcl .span-3{
+    position: relative;
+    top: 170px;
+    left: -121px;
+}
+.main-bg  .crcl-sec{
+    margin-top: 100px;
+}
+
+.road-sec .container h3{
+    font-size: 35px;
+    line-height: 80px;
+}
+.road-sec .container p{
+    font-size: 12px;
+    line-height: 12px;
+}
+.box-sec .container .box .ctnt h4{
+    font-size: 25px;
+    line-height: 35px;
+}
+.box-sec .container .box .ctnt p{
+    font-size: 13px;
+    line-height: 20px;
+
+}
+
+.road-sec{
+    margin-top: 100px;
+}
+.box-sec{
+    margin-top: 90px;
+}
+.ftr-sec .ftr-bg{
+    margin-top: 60px;
+}
+.ftr-sec{
+    text-align: center;
+    margin-top: 0px;
+
+}
+.ftr-sec p{
+    font-size: 13px;
+}
+.ftr-sec h4{
+    font-size: 19px;
+
+}
+.ftr-sec  ul li a{
+    font-size: 14px;
+}
+.main-bg .icn-sec .container .cntt .ok{
+
+        text-align: center;
+        position: relative;
+        left: 114px;
+    }
+
+
+}
+/*-----------375---------*/
+@media(max-width:375px){
+    .main-bg .bnr-sec h2{
+    font-size: 30px;
+      position: relative;
+       top: 197px;
+ }
+ .main-bg .bnr-sec h4{
+    font-size: 24px;
+      position: relative;
+    top: 220px;
+ }
+ .main-bg .bnr-sec p{
+     position: relative;
+    top: 250px;
+    /*left: 30px;*/
+    width: 320px;
+    line-height: 20px;
+    font-size: 12px;
+
+ }
+ .main-bg .bnr-sec .bg img{
+    position: relative;
+    top: -70px;
+
+ }
+.main-bg .key-sec .container .main-cnt{
+    height:1750px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-3{
+    margin-top:90px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-4{
+    margin-top:20px;
+
+  }
+  .main-bg .key-sec .container .main-cnt .ctn-1 h3{
+    font-size: 20px;
+    line-height: 27px;
+}
+.main-bg .key-sec .container .main-cnt .ctn-1{
+    margin-top: 5px;
+}
+.main-bg .icn-sec .container .cntt .ok{
+
+        text-align: center;
+        position: relative;
+        left: 90px;
+    }
+
+
+ }
+ /*--------------------393--------------*/
+ @media(max-width:393px){
+    .main-bg .key-sec .container .main-cnt{
+    height:1710px;
+}
+.main-bg .icn-sec .container .cntt .ok{
+
+        text-align: center;
+        position: relative;
+        left: 114px;
+    }
+
+
+ }
+ /*-----------------390-----------------------*/
+ @media(max-width:390px){
+    .main-bg .key-sec .container .main-cnt{
+    height:1750px;
+}
+.main-bg .icn-sec .container .cntt .ok{
+
+        text-align: center;
+        position: relative;
+        left: 114px;
+    }
+
+ }
+/*------------------320--------------*/
+@media(max-width:320px){
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+        text-align: center;
+        padding: 15px;
+    }
+
+.main-bg .navbar .collapse form{
+    text-align: center;
+}
+
+.fotr-bg h6{
+    text-align: center;
+}
+.main-bg h2{
+    color: #fff;
+    font-family: 'Georama';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 85px;
+    line-height: 172px;
+    letter-spacing: 0.02em;
+    margin-top: 90px;
+ }
+}
+.main-bg  .cntct-bg a i{
+    background: #fff;
+    padding: 20px;
+    font-size: 33px;
+    border-radius: 50%;
+    color: #DADADA;
+ }
